@@ -1,5 +1,9 @@
 # Excel/CSV Merger
 
+[![CI](https://github.com/Synth88Labs/excel-tool-merger/actions/workflows/ci.yml/badge.svg)](https://github.com/Synth88Labs/excel-tool-merger/actions/workflows/ci.yml)
+[![Python 3.9+](https://img.shields.io/badge/python-3.9%2B-blue.svg)](https://www.python.org/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+
 A simple, reliable command-line tool that merges a whole folder of **Excel and CSV
 files into one clean file** — aligning mismatched columns, tagging each row with its
 source file, and optionally removing duplicates.
