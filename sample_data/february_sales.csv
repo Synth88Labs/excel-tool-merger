@@ -1,0 +1,4 @@
+order_id,customer,product,amount,region
+1004,Gamma Inc,Widget A,410,West
+1005,Beta LLC,Widget D,90,East
+1006,Delta Co,Widget B,175,West

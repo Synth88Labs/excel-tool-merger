@@ -1,0 +1,4 @@
+order_id,customer,product,amount
+1001,Acme Corp,Widget A,250
+1002,Beta LLC,Widget B,180
+1003,Acme Corp,Widget C,320

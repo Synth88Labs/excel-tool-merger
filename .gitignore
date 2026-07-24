@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.eggs/
+build/
+dist/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Excel / temp lock files
+~$*.xlsx
+~$*.xls
+*.tmp
+
+# Tool output (don't commit generated merges)
+merged_output.xlsx
+*_output.xlsx
+
+# IDE / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
