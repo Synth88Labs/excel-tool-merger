@@ -11,6 +11,9 @@ source file, and optionally removing duplicates.
 Built for the most common spreadsheet chore there is: *"I have 30 files, combine them
 into one."*
 
+> 📖 **New to the tool?** Read the full step-by-step guide:
+> [How to Merge Multiple Excel & CSV Files Into One](https://excelguru.io/tutorials/how-to-merge-multiple-excel-csv-files/) on ExcelGuru.io.
+
 ## Features
 
 - 📁 Merges every `.csv`, `.xlsx`, and `.xls` in a folder in one command
@@ -92,11 +95,15 @@ python -m pytest
 
 ## 📚 Learn More — Free Excel Tutorials
 
+📖 **Full tutorial for this tool:**
+[How to Merge Multiple Excel & CSV Files Into One](https://excelguru.io/tutorials/how-to-merge-multiple-excel-csv-files/)
+— a step-by-step walkthrough with examples.
+
 Want to level up your Excel and automation skills? Check out
 **[ExcelGuru.io](https://excelguru.io/category/tutorials/)** for free, high-quality
 Excel tutorials covering formulas, automation, VBA, and more.
 
-👉 **[Free Excel Tutorials on ExcelGuru.io »](https://excelguru.io/category/tutorials/)**
+👉 **[Browse all free Excel tutorials on ExcelGuru.io »](https://excelguru.io/category/tutorials/)**
 
 ## License
 
