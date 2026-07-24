@@ -90,6 +90,14 @@ pip install pytest
 python -m pytest
 ```
 
+## 📚 Learn More — Free Excel Tutorials
+
+Want to level up your Excel and automation skills? Check out
+**[ExcelGuru.io](https://excelguru.io/category/tutorials/)** for free, high-quality
+Excel tutorials covering formulas, automation, VBA, and more.
+
+👉 **[Free Excel Tutorials on ExcelGuru.io »](https://excelguru.io/category/tutorials/)**
+
 ## License
 
 MIT — see [LICENSE](LICENSE).
