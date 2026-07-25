@@ -86,6 +86,18 @@ Given two files with **different columns**:
 The tool produces one combined file with the **union of columns** and a `source_file`
 tag — January rows simply have a blank `region`.
 
+## Part of a bigger workflow
+
+Merge your files here, then turn the combined data into a formatted report with
+[Excel Report Generator](https://github.com/Synth88Labs/excel-tool-reportgen):
+
+```bash
+python merge_excel.py ./monthly_exports -o combined.csv --dedupe
+python make_report.py combined.csv -o report.xlsx --chart amount --title "Annual Sales"
+```
+
+→ Full guide: [Merge and Report: Automate Your Whole Excel Workflow](https://excelguru.io/tutorials/merge-and-report-automate-your-whole-excel-workflow/)
+
 ## Running the tests
 
 ```bash
